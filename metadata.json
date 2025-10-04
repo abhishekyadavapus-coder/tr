@@ -1,0 +1,5 @@
+{
+  "name": "Expense Management System",
+  "description": "A comprehensive expense management application that simplifies reimbursement processes with automated approval workflows, multi-level approvals, and OCR-powered receipt scanning for effortless expense submission.",
+  "requestFramePermissions": []
+}
